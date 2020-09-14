@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5df8c13bdaeb89601f85762caaccd6a",
+    "revision": "f57953be9f3ddc03a434a4e2087b5401",
     "url": "/alishahusain.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alishahusain.github.io/static/css/2.ef260f70.chunk.css"
   },
   {
-    "revision": "24430042eca48e6a63f0",
-    "url": "/alishahusain.github.io/static/css/main.88d75bdd.chunk.css"
+    "revision": "14a7d9726abe78de6a31",
+    "url": "/alishahusain.github.io/static/css/main.929d1654.chunk.css"
   },
   {
     "revision": "cf1de266c129c6fe90ff",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alishahusain.github.io/static/js/2.e55927a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24430042eca48e6a63f0",
-    "url": "/alishahusain.github.io/static/js/main.506d51ca.chunk.js"
+    "revision": "14a7d9726abe78de6a31",
+    "url": "/alishahusain.github.io/static/js/main.d50d9009.chunk.js"
   },
   {
     "revision": "0059517906f5b02debd2",
