@@ -19,7 +19,6 @@ function App() {
       <Nav.Link href="/">Home</Nav.Link>
       <Nav.Link href="/aboutme">About Me</Nav.Link>
       <Nav.Link href="/projects">Projects</Nav.Link>
-
     </Nav>
 
   </Navbar.Collapse>
