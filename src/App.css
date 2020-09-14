@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -26,6 +27,126 @@
 
 .App-link {
   color: #61dafb;
+}
+
+/* Modify the background color */ 
+ 
+
+.navbar,
+.navbar-default {
+  background: #8A2387 !important;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #F27121, #E94057, #8A2387) !important;  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #F27121, #E94057, #8A2387) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+
+}
+
+.landing-grid {
+  background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+/* */
+text-align: center;
+position: fixed;
+left: 0;
+width: 100%;
+height: 100%;
+
+
+}
+
+.about-page {
+  background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/* */
+text-align: top;
+position: fixed;
+left: 0;
+width: 100%;
+height: 100%;
+
+font-size: 20px;
+font-weight: bold;
+color: white;
+
+}
+
+.about-desc h1{
+font-size: 60px;
+color: white;
+}
+
+.about-desc h2 {
+  font-size: 20px;
+  color: white; 
+}
+
+.banner-text {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+
+
+.banner-text p {
+  text-align: center;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 70%;
+  margin: auto;
+}
+
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+
+.avatar-img {
+  height: 250px;
+  padding-top: 5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 10%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 15mm;
+  padding: 8px;
+
+}
+
+.projects-grid {
+  display: flex;
 }
 
 @keyframes App-logo-spin {
